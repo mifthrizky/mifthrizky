@@ -18,7 +18,7 @@
 - 👨‍🎓 I'm a student at Bandung Polytechnic of Manufacturing.
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](..) for more details about me.
+- 💻 Visit my [Portfolio](https://miftah-rizky.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
