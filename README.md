@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I'm a Web Developer and Cyber Security Enthusiast. </p>
+<p align="left">I'm a Web Developer and Data Enthusiast. </p>
 
 - ✨ Student of life :)
 - 👨‍🎓 I'm a student at Bandung Polytechnic of Manufacturing.
