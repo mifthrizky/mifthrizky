@@ -67,9 +67,6 @@ I'm a passionate **Full-Stack Developer** crafting elegant solutions with modern
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mifthrizky&theme=radical&hide_border=true" alt="GitHub Streak">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifthrizky&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</a>
 
 </div>
 
